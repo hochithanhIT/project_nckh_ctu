@@ -1,1 +1,2 @@
-model
+model/yolo_63Acc_1.pt
+model/yoloresnet_61Acc.pt
