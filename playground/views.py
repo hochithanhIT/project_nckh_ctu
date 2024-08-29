@@ -83,7 +83,7 @@ def save_img_from_FB(image_url):
 
             #NOTE - Firebase pure image container
 
-            dir_to_remove = "pure_images%2F"
+            dir_to_remove = "images%2F"
             image_name = image_name.replace(dir_to_remove,"")
 
 

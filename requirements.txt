@@ -1,0 +1,11 @@
+Django
+djangorestframework
+PyYAML
+requests
+django-cors-headers
+ultralytics
+torch
+torchvision
+pillow
+python-dotenv
+pyrebase4
