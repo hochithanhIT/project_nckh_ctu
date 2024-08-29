@@ -6,6 +6,9 @@ run/
 .idea
 .idea/
 
+.venv
+.venv/
+
 .venv/Scripts
 .venv/share
 
