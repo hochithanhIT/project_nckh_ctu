@@ -3,6 +3,11 @@ model
 run
 run/
 
+.idea
+.idea/
+
+.venv/Scripts
+
 # Created by https://www.gitignore.io
 
 ### OSX ###
