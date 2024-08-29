@@ -7,6 +7,7 @@ run/
 .idea/
 
 .venv/Scripts
+.venv/share
 
 # Created by https://www.gitignore.io
 
